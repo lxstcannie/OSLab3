@@ -1,0 +1,5 @@
+C:/proga/OS/OSLab3/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/proga/OS/OSLab3/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/proga/OS/OSLab3/out/build/x64-Debug/OSLab3/CMakeFiles/OSLab3.dir
+C:/proga/OS/OSLab3/out/build/x64-Debug/OSLab3/CMakeFiles/edit_cache.dir
+C:/proga/OS/OSLab3/out/build/x64-Debug/OSLab3/CMakeFiles/rebuild_cache.dir
